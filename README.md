@@ -30,7 +30,7 @@ This 2.5× fertility ratio means:
 
 ## 💡 My Solution: Hybrid Frozen Vocabulary
 
-We implement a **hybrid frozen vocabulary approach** inspired by recent NLP research:
+I implement a **hybrid frozen vocabulary approach** inspired by recent NLP research:
 
 ### Key Innovation
 
